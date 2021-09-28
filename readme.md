@@ -1,3 +1,3 @@
 # centos-practice
 
-1. 수정하기
+### 1. 설치하기
